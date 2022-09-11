@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "53MSl+xga3ACnNvAhtA/f6YgYHy4zyzHApieACLwHnNC+NYTUztpnwmE/U/LWtemzUszsKpfCRvE3Sl5oPN/iA==",
+  "dgSpecHash": "hW5h+Wvow/WznkME8zMxDpOJ81Ve0ydeIBzYgOs6uVHXDGddwuTqRGeNrySVDA4xK3TZIZ2sbITnm4bGOikP3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\megan\\OneDrive\\Documents\\Data Structures and Algorithms\\containsDuplicate\\containsDuplicate.csproj",
+  "projectFilePath": "C:\\Users\\megan\\OneDrive\\Documents\\Data Structures and Algorithms\\Leetcode\\C# Solutions\\containsDuplicate\\containsDuplicate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

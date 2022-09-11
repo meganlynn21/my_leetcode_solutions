@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\megan\\OneDrive\\Documents\\Data Structures and Algorithms\\containsDuplicate\\containsDuplicate.csproj": {}
+    "C:\\Users\\megan\\OneDrive\\Documents\\Data Structures and Algorithms\\Leetcode\\C# Solutions\\containsDuplicate\\containsDuplicate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\megan\\OneDrive\\Documents\\Data Structures and Algorithms\\containsDuplicate\\containsDuplicate.csproj": {
+    "C:\\Users\\megan\\OneDrive\\Documents\\Data Structures and Algorithms\\Leetcode\\C# Solutions\\containsDuplicate\\containsDuplicate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\megan\\OneDrive\\Documents\\Data Structures and Algorithms\\containsDuplicate\\containsDuplicate.csproj",
+        "projectUniqueName": "C:\\Users\\megan\\OneDrive\\Documents\\Data Structures and Algorithms\\Leetcode\\C# Solutions\\containsDuplicate\\containsDuplicate.csproj",
         "projectName": "containsDuplicate",
-        "projectPath": "C:\\Users\\megan\\OneDrive\\Documents\\Data Structures and Algorithms\\containsDuplicate\\containsDuplicate.csproj",
+        "projectPath": "C:\\Users\\megan\\OneDrive\\Documents\\Data Structures and Algorithms\\Leetcode\\C# Solutions\\containsDuplicate\\containsDuplicate.csproj",
         "packagesPath": "C:\\Users\\megan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\megan\\OneDrive\\Documents\\Data Structures and Algorithms\\containsDuplicate\\obj\\",
+        "outputPath": "C:\\Users\\megan\\OneDrive\\Documents\\Data Structures and Algorithms\\Leetcode\\C# Solutions\\containsDuplicate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
